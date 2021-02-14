@@ -1,6 +1,7 @@
 {
   "name": "firstapp",
   "version": "0.1.0",
+  "homepage":"https://smithme81.github.io/firstapp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
